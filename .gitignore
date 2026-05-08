@@ -1,0 +1,11 @@
+# Abaikan semua file dan folder di dalam direktori ini
+*
+
+# Tapi JANGAN abaikan folder (agar git bisa masuk ke dalamnya)
+!*/
+
+# JANGAN abaikan file .gitignore ini sendiri
+!.gitignore
+
+# JANGAN abaikan file Jupyter Notebook utama kita
+!prediksi_harga_ram.ipynb
