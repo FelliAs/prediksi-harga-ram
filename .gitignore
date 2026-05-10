@@ -9,3 +9,6 @@
 
 # JANGAN abaikan file Jupyter Notebook utama kita
 !prediksi_harga_ram.ipynb
+
+# JANGAN abaikan file laporan eksperimen
+!Laporan_Eksperimen_Harga_RAM.docx
